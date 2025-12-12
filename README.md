@@ -1,25 +1,9 @@
-#Tools & Techiques:
+📘 Certified Red Team Operator (CRTO) Notes
 
-**MSI create:
+Welcome to my repository of notes for the CRTO certification by Zero Point Security.
 
-1 Visual Studio
+These notes are written in English, fully tested in the official lab, and ready to help you pass the exam.
 
-2 .MicrosoftVisualStudio2022InstallerProjects
+Topics are ordered to follow a logical study/red team progression, but feel free to jump around as you like.
 
-***Dll  Template
-
-https://github.com/FuzzySecurity/DLL-Template
-
-**Excel Add-Ins created:
-
-1 Excel ⇒  ALT + F11 ( Marco editor )
-
-***Code signing
-
-*** Droppers.js create
-
-1 Visual Studio  and  class library #c  .NET desktop download
-
-2 GadgetToJScript ⇒ This use dll. convert .js
-
-https://github.com/med0x2e/GadgetToJScript
+📌 Explore, reuse, fork, improve, or contribute — everything is welcome.
