@@ -5,7 +5,14 @@
 https://github.com/An0nUD4Y/CRTO-Notes/blob/main/CRTO%20-%20Cheatsheet.md#forest--domain-trusts
 
 
+- Cambiar teclado a español:
 
+```powershell
+$LangList = Get-WinUserLanguageList
+$LangList.Add("es-ES")
+Set-WinUserLanguageList $LangList -Force
+```
+> Vamos a language settings(escribes "**la**" en windows) y seleccionas español.
 # EVASION
 
 ## AMSI BYPASS, lanzarlos por separado.
