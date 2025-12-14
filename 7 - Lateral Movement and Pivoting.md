@@ -18,7 +18,7 @@ beacon> jump psexec64 lon-ws-1 smb
 ## Better OPSEC
 
 ```powershell
-Import the SCshell .cna
+Import the SCshell.cna
 
 beacon> jump scshell64 lon-ws-1 smb
 ```
